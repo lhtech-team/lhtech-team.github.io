@@ -1,5 +1,3 @@
-# 🚀 LH Tech Team
-
 Chúng tôi là **LH Tech Team** – một nhóm kỹ sư phần mềm tập trung vào việc xây dựng **giải pháp công nghệ hiệu quả, ổn định và có khả năng mở rộng**, giúp doanh nghiệp tối ưu vận hành và tăng trưởng bền vững.
 
 Với kinh nghiệm thực tế trong nhiều dự án từ **startup đến doanh nghiệp**, chúng tôi không chỉ viết code mà còn đồng hành trong tư duy sản phẩm, kiến trúc hệ thống và tối ưu hiệu suất.
